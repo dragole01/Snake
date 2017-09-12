@@ -31,6 +31,7 @@ Game::Game( MainWindow& wnd )
 	snek({2,2}),
 	goal(rng, brd, snek)
 {
+	//ilerleme budur...
 }
 
 void Game::Go()
